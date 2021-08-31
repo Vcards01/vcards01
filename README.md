@@ -17,7 +17,6 @@
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Vcards01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  </div>
 
-
 ## Linguagens, frameworks e tecnologias:
   
 <div style="display: inline_block"><br>
@@ -33,8 +32,10 @@
  <img align="center" alt="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
  <img align="center" alt="SQL" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="C" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  
 </div>
+
+ ## Contribuições
+ <img alt="Contributions" src="https://github.com/Vcards01/Vcards01/blob/output/github-contribution-grid-snake.svg">
   
  ## Fale comigo :handshake:
 <div> 
