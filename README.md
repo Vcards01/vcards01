@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Vcards01 mas pode me chamar de Victor 😀
+## Olá 👋 Eu sou Victor 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vcards01.Vcards01) [![Github](https://img.shields.io/github/followers/Vcards01?label=Followers&logo=Github)](https://github.com/Vcards01)
 
 
