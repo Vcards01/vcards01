@@ -23,19 +23,20 @@
  <img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </div>
 
-## Algumas estatísticas do Github :bar_chart:
+## Estatísticas :bar_chart:
 
  <div width =100%;>
   <a href="https://github.com/Vcards01"/>
-<!--    <img  align="center" width =83%; src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcards01&theme=github_dark"/>
+   <img  align="center" width =83%; src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcards01&theme=github_dark"/>
    <br/><br/>
-   <img  height="180em" style="margin-left:30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcards01&layout=compact&langs_count=7&theme=github_dark"/> -->
+   <img  height="180em" style="margin-left:30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcards01&layout=compact&langs_count=7&theme=github_dark"/>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Vcards01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   
  </div>
 
 
-<!--  ## Contribuições
- <img alt="Contributions" src="https://github.com/Vcards01/Vcards01/blob/output/github-contribution-grid-snake.svg"> -->
+## Contribuições
+ <img alt="Contributions" src="https://github.com/Vcards01/Vcards01/blob/output/github-contribution-grid-snake.svg">
   
  ## Fale comigo :handshake:
 <div> 
